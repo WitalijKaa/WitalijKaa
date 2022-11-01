@@ -79,22 +79,22 @@
 
 <h3 align="left">PORTFOLIO</h3>
 - 👨‍💻 All of my enterprise projects are:
--
+  <br><br>
 - using Laravel 8 + MySQL + legacy Yii 1.1:
-- [ex Cosmopolitan Russia, millions-per-day-visits journal](https://www.thevoicemag.ru/)
-- [ex Popular Mechanics Russia, top-tech journal](https://www.techinsider.ru/)
-- [ex Esquire Russia, top-rich-style journal](https://www.pravilamag.ru/)
-- [ex Men's Health Russia, top journal for men](https://www.mentoday.ru/)
-- [Top journal about home and comfort](https://www.novochag.ru/)
-- [Grazia Russia, top-celebrities journal](https://graziamagazine.ru/)
-- [ex Bazaar Russia, top-fashion journal](https://www.thesymbol.ru/)
-- [Yet another great journal](https://robb.report/)
--
+- **ex Cosmopolitan Russia**: [millions-per-day-visits journal](https://www.thevoicemag.ru/)
+- **ex Popular Mechanics Russia**: [top-tech journal](https://www.techinsider.ru/)
+- **ex Esquire Russia**: [top-rich-style journal](https://www.pravilamag.ru/)
+- **ex Men's Health Russia**: [top journal for men](https://www.mentoday.ru/)
+- **New Hearth**: [top journal about home and comfort](https://www.novochag.ru/)
+- **Grazia Russia**: [top-celebrities journal](https://graziamagazine.ru/)
+- **ex Bazaar Russia**: [top-fashion journal](https://www.thesymbol.ru/)
+- **Robb Report**: [Yet another great journal](https://robb.report/)
+  <br><br>
 - using PIXI.js + Yii 2 + Postgres:
-- [Game for leading mobile provider](https://priz.mts.ru/)
-- [...and one more version of that game](https://kruti.mts.ru/)
--
+- **Prize**: [Game for leading mobile provider](https://priz.mts.ru/)
+- **Spin**: [Plus one more version of that game](https://kruti.mts.ru/)
+  <br><br>
 - using Vue.JS + MaterializeCss:
 - Internal CRM-system for IP-phone calls, not-public.
--
+  <br><br>
 - 🔭 I’m currently working on fan-project [Magic Stone Circuits](https://github.com/WitalijKaa/magic-stone-circuit)
