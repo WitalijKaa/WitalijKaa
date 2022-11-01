@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"> <img src="https://www.yiiframework.com/image/logo.svg" alt="yii" width="40" height="40"/> </a>
+<a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Yii-logo-transparent.png/180px-Yii-logo-transparent.png" alt="yii" width="40" height="20" style="padding-bottom: 10px;"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -47,7 +47,7 @@
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png" alt="jquery" width="40" height="20" style="padding-bottom: 10px;"/> </a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/330px-JQuery_logo.svg.png" alt="jquery" width="40" height="20" style="padding-bottom: 10px;"/> </a>
 <br>
 <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>
 <a href="https://stylus-lang.com/" target="_blank" rel="noreferrer"> <img src="https://stylus-lang.com/logo.svg" alt="stylus" width="40" height="40"/> </a>
