@@ -11,15 +11,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/WitalijKaa" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/telegram-app.png" alt="WitalijKaa" height="auto" width="40" /></a>
-<a href="https://linkedin.com/in/witalij-kislitsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="witalij-kislitsa" height="30" width="40" /></a>
+<a href="https://t.me/WitalijKaa" target="_blank"><img align="center" src="https://img.icons8.com/fluency/344/telegram-app.png" alt="WitalijKaa" height="auto" width="40" /></a>
+<a href="https://linkedin.com/in/witalij-kislitsa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="witalij-kislitsa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My socials:</h3>
 <p align="left">
-<a href="https://fb.com/witalij.kaa.titarenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="witalij.kaa.titarenko" height="30" width="40" /></a>
-<a href="https://instagram.com/witalij.kaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="witalij.kaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uct4y7ks649av1x26jut9w2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uct4y7ks649av1x26jut9w2g" height="30" width="40" /></a>
+<a href="https://fb.com/witalij.kaa.titarenko" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="witalij.kaa.titarenko" height="30" width="40" /></a>
+<a href="https://instagram.com/witalij.kaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="witalij.kaa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCT4Y7ks649av1x26jUt9w2g" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uct4y7ks649av1x26jut9w2g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My main Languages and Tools:</h3>
