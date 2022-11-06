@@ -79,7 +79,7 @@
 <h3 align="left">PORTFOLIO</h3>
 
 - 👨‍💻 All of my enterprise projects are:
-  <br><br>
+<br><br>
 - using Laravel 8 + MySQL + legacy Yii 1.1:
 
 - **ex Cosmopolitan Russia**: [millions-per-day-visits journal](https://www.thevoicemag.ru/)
@@ -110,10 +110,19 @@
 - Internal CRM-system for IP-phone calls, not-public.
 <br><br>
 - 🔭 I’m currently working on fan-project [Magic Stone Circuits](https://github.com/WitalijKaa/magic-stone-circuit)
+<br><br><br><br>
 
 <h3 align="left">CODE EXAMPLES</h3>
 
 - **SOLID php**: [shortest overview of code artising principles](https://github.com/WitalijKaa/test-task/blob/solid_php/solid.php)
 
+- **TEST-task #4**: [powerful backend, interesting about  10/10](https://github.com/WitalijKaa/test-task/tree/task_11)
+
+- **TEST-task #2**: [front, interesting about 4/10](https://github.com/WitalijKaa/test-task/tree/task_3_do)
+
 - **TEST-task #1**: [front, interesting about 2/10](https://github.com/WitalijKaa/test-task/tree/task_1)
 
+- **TEST-task #3**: [just algorithm, interesting about 1/10](https://github.com/WitalijKaa/test-task/tree/task_10_happy_numbers)
+
+- **FUN-project**: [front, not PSR-12, interesting about 7/10](https://github.com/WitalijKaa/magic-stone-circuit)
+- 
