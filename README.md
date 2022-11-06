@@ -18,7 +18,6 @@
 <h3 align="left">My socials:</h3>
 <p align="left">
 <a href="https://fb.com/witalij.kaa.titarenko" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="witalij.kaa.titarenko" height="30" width="40" /></a>
-<a href="https://instagram.com/witalij.kaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="witalij.kaa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCT4Y7ks649av1x26jUt9w2g" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uct4y7ks649av1x26jut9w2g" height="30" width="40" /></a>
 </p>
 
@@ -31,13 +30,13 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <br>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Have rich experience in:</h3>
@@ -78,6 +77,7 @@
 </p>
 
 <h3 align="left">PORTFOLIO</h3>
+
 - 👨‍💻 All of my enterprise projects are:
   <br><br>
 - using Laravel 8 + MySQL + legacy Yii 1.1:
@@ -97,8 +97,10 @@
 - **ex Bazaar Russia**: [top-fashion journal](https://www.thesymbol.ru/)
 
 - **Robb Report**: [yet another great journal](https://robb.report/)
+
+- Complex admin panel and microservices for journals, not-public.
 <br><br>
-- using PIXI.js + Yii 2 + Postgres:
+- using PIXI.js + Yii 2 + Vue.JS + Postgres:
 - **Prize**: [game for leading mobile provider](https://priz.mts.ru/)
 
 - **Spin**: [plus one more version of that game](https://kruti.mts.ru/)
@@ -108,3 +110,10 @@
 - Internal CRM-system for IP-phone calls, not-public.
 <br><br>
 - 🔭 I’m currently working on fan-project [Magic Stone Circuits](https://github.com/WitalijKaa/magic-stone-circuit)
+
+<h3 align="left">CODE EXAMPLES</h3>
+
+- **SOLID php**: [shortest overview of code artising principles](https://github.com/WitalijKaa/test-task/blob/solid_php/solid.php)
+
+- **TEST-task #1**: [front, interesting about 2/10](https://github.com/WitalijKaa/test-task/tree/task_1)
+
