@@ -125,4 +125,3 @@
 - **TEST-task #3**: [just algorithm, interesting about 1/10](https://github.com/WitalijKaa/test-task/tree/task_10_happy_numbers)
 
 - **FUN-project**: [front, not PSR-12, interesting about 7/10](https://github.com/WitalijKaa/magic-stone-circuit)
-- 
