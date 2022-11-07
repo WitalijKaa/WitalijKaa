@@ -116,7 +116,7 @@
 
 - **SOLID php**: [shortest overview of code artising principles](https://github.com/WitalijKaa/test-task/blob/solid_php/solid.php)
 
-- **TEST-task #4**: [powerful backend, interesting about  10/10](https://github.com/WitalijKaa/test-task/tree/task_11)
+- **Enterprise cuts**: [powerful backend, interesting about 10/10](https://github.com/WitalijKaa/test-task/tree/task_11)
 
 - **TEST-task #2**: [front, interesting about 4/10](https://github.com/WitalijKaa/test-task/tree/task_3_do)
 
