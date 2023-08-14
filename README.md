@@ -112,13 +112,9 @@
 - 🔭 I’m currently working on fan-project [Magic Stone Circuits](https://github.com/WitalijKaa/magic-stone-circuit)
 <br><br><br><br>
 
-<h3 align="left">ONLINE EXAMPLES</h3>
+<h3 align="left">ONLINE EXAMPLE</h3>
 
 - **FUN-project**: [electronic schemes in magic world](https://magic-stone-circuit.app/)
-
-- **TEST-task #12**: [pictures ratings](https://test12.magic-stone-circuit.app/)
-
-- **TEST-task #1**: [like web store](https://test1.magic-stone-circuit.app/)
 
 <h3 align="left">CODE EXAMPLES</h3>
 
