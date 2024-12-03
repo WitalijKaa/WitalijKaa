@@ -80,6 +80,15 @@
 
 - 👨‍💻 All of my enterprise projects are:
 <br><br>
+- using Laravel 11 + MariaDB + Livewire 3 + PHP 8.3:
+
+- **Client Portal**: [private portal](https://client.americor.com/)
+
+- **Client Portal (just another company)**: [private portal](https://client.advantage.law/)
+
+- **Client Portal (just another company)**: [private portal](https://client.credit9.com/)
+
+<br><br>
 - using Laravel 8 + MySQL + legacy Yii 1.1:
 
 - **ex Cosmopolitan Russia**: [millions-per-day-visits journal](https://www.thevoicemag.ru/)
@@ -114,7 +123,7 @@
 
 <h3 align="left">ONLINE EXAMPLE</h3>
 
-- **FUN-project**: [electronic schemes in magic world](https://magic-stone-circuit.app/)
+- **FUN-project**: [electronic schemes in magic world](http://91.92.128.146/)
 
 <h3 align="left">CODE EXAMPLES</h3>
 
