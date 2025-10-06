@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋, I'm Vitalii Kislitsa</h1>
+<h1 align="center">Welcome 👋, I'm Vitalii Kyslytsia</h1>
 <h3 align="center">Senior Backend + Fullstack Web Developer PHP</h3>
 
 - 💬 Ask me about **PHP, Laravel, MySQL, SOLID**
@@ -125,26 +125,19 @@
 - 🔭 I’m currently working on fan-project [Magic Stone Circuits](https://github.com/WitalijKaa/magic-stone-circuit)
 <br><br><br><br>
 
+
+<h3 align="left">U CAN DOCKER EXAMPLE</h3>
+
+- **FUN-project**: [LLM helper for science fiction writer](https://github.com/WitalijKaa/special-creativity/blob/main/docker/readme.docker.md)
+
 <h3 align="left">ONLINE EXAMPLE</h3>
 
-- **FUN-project**: [electronic schemes in magic world](http://91.92.128.146/)
+- **previous FUN-project**: [electronic schemes in magic world](http://91.92.128.146/)
 
 <h3 align="left">CODE EXAMPLES</h3>
 
-- **SOLID php**: [shortest overview of code artising principles](https://github.com/WitalijKaa/test-task/blob/solid_php/solid.php)
+- **PHP code**: [WEB helper for science fiction writer](https://github.com/WitalijKaa/special-creativity)
 
-- **Enterprise cuts**: [powerful backend, interesting about 10/10](https://github.com/WitalijKaa/test-task/tree/task_11)
+- **PYTHON code**: [LLM helper for science fiction writer](https://github.com/WitalijKaa/special-creativity-ai)
 
-- **TEST-task #12**: [back, interesting about 5/10](https://github.com/WitalijKaa/test-task/tree/task_12_3)
-
-- **TEST-task #2**: [front, interesting about 4/10](https://github.com/WitalijKaa/test-task/tree/task_3_do)
-
-- **TEST-task #1**: [front, interesting about 2/10](https://github.com/WitalijKaa/test-task/tree/task_1_2)
-
-- **Debian 11 dev**: [admin, interesting about 2/10](https://github.com/WitalijKaa/test-task/tree/debian)
-
-- **LARAVEL 9 empty**: [docker, interesting about 1/10](https://github.com/WitalijKaa/test-task/tree/laravel_9)
-
-- **TEST-task #3**: [just algorithm, interesting about 1/10](https://github.com/WitalijKaa/test-task/tree/task_10_happy_numbers)
-
-- **FUN-project**: [front, not PSR-12, interesting about 7/10](https://github.com/WitalijKaa/magic-stone-circuit)
+- **something old**: [php js](https://github.com/WitalijKaa/WitalijKaa/blob/main/README.old.md)
