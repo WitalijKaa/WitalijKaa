@@ -12,13 +12,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/WitalijKaa" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/telega.png?raw=true" alt="WitalijKaa" height="auto" width="40" /></a>
-<a href="https://linkedin.com/in/witalij-kislitsa" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/youtube.svg?raw=true" alt="witalij-kislitsa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/witalij-kislitsa" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/linked-in.svg?raw=true" alt="witalij-kislitsa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My socials:</h3>
 <p align="left">
 <a href="https://fb.com/witalij.kaa.titarenko" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/facebook.svg?raw=true" alt="witalij.kaa.titarenko" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCT4Y7ks649av1x26jUt9w2g" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/linked-in.svg?raw=true" alt="uct4y7ks649av1x26jut9w2g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCT4Y7ks649av1x26jUt9w2g" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/youtube.svg?raw=true" alt="uct4y7ks649av1x26jut9w2g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@RadioRokkot" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/youtube.svg?raw=true" alt="uct4y7ks649av1x26jut9w2g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My main Languages and Tools:</h3>
@@ -73,7 +74,7 @@
 <h3 align="left">Had some experience with:</h3>
 <p align="left">
 <a href="http://sphinxsearch.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/sphinx.png?raw=true" alt="sphinxsearch" width="126"  height="30" style="padding-bottom: 10px;"/> </a>
-<a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/syphony.svg?raw=tru" alt="symfony" width="40" height="40"/> </a>
+<a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/symfony.svg?raw=tru" alt="symfony" width="40" height="40"/> </a>
 <br>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/nodejs.svg?raw=tru" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/csharp.svg?raw=tru" alt="csharp" width="40" height="40"/> </a>
