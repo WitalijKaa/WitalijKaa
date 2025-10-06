@@ -45,6 +45,7 @@
 
 <h3 align="left">Have rich experience in:</h3>
 <p align="left">
+<a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/livewire.png?raw=true" alt="livewire" width="40" height="40"/> </a>
 <a href="https://laravel.com/docs/12.x/blade#main-content" target="_blank" rel="noreferrer"> <img src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/blade.svg?raw=true" alt="blade" width="35" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/tailwind.png?raw=true" alt="tailwindcss" width="40" height="40"/> </a>
 <a href="https://pixijs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/pixijs.svg?raw=true" alt="pixijs" width="40" height="40"/> </a>
