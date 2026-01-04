@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋, I'm Vitalii Kyslytsia</h1>
-<h3 align="center">Senior Backend + Fullstack Web Developer PHP</h3>
+<h3 align="center">Senior Backend + Fullstack Web Developer PHP + Middle DevOps</h3>
 
 - 💬 Ask me about **PHP, Laravel, MySQL, SOLID**
 
@@ -11,15 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/WitalijKaa" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/telega.png?raw=true" alt="WitalijKaa" height="auto" width="40" /></a>
 <a href="https://linkedin.com/in/witalij-kislitsa" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/linked-in.svg?raw=true" alt="witalij-kislitsa" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">My socials:</h3>
-<p align="left">
-<a href="https://fb.com/witalij.kaa.titarenko" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/facebook.svg?raw=true" alt="witalij.kaa.titarenko" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCT4Y7ks649av1x26jUt9w2g" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/youtube.svg?raw=true" alt="uct4y7ks649av1x26jut9w2g" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@RadioRokkot" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/youtube.svg?raw=true" alt="uct4y7ks649av1x26jut9w2g" height="30" width="40" /></a>
+<a href="https://t.me/WitalijKaa" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/telega.png?raw=true" alt="WitalijKaa" height="auto" width="40" /></a>
 </p>
 
 <h3 align="left">My main Languages and Tools:</h3>
@@ -89,10 +82,6 @@
 
 - **Client Portal**: [private portal](https://client.americor.com/)
 
-- **Client Portal (just another company)**: [private portal](https://client.advantage.law/)
-
-- **Client Portal (just another company)**: [private portal](https://client.credit9.com/)
-
 <br><br>
 - using Laravel 8 + MySQL + legacy Yii 1.1:
 
@@ -104,41 +93,20 @@
 
 - **ex Men's Health Russia**: [top journal for men](https://www.mentoday.ru/)
 
-- **New Hearth**: [top journal about home and comfort](https://www.novochag.ru/)
-
-- **Grazia Russia**: [top-celebrities journal](https://graziamagazine.ru/)
-
-- **ex Bazaar Russia**: [top-fashion journal](https://www.thesymbol.ru/)
-
-- **Robb Report**: [yet another great journal](https://robb.report/)
-
 - Complex admin panel and microservices for journals, not-public.
 <br><br>
 - using PIXI.js + Yii 2 + Vue.JS + Postgres:
 - **Prize**: [game for leading mobile provider](https://priz.mts.ru/)
 
 - **Spin**: [plus one more version of that game](https://kruti.mts.ru/)
-<br><br>
-- using Vue.JS + MaterializeCss:
-
-- Internal CRM-system for IP-phone calls, not-public.
-<br><br>
-- 🔭 I’m currently working on fan-project [Magic Stone Circuits](https://github.com/WitalijKaa/magic-stone-circuit)
 <br><br><br><br>
 
 
-<h3 align="left">U CAN DOCKER EXAMPLE</h3>
+<h3 align="left">MY old FUN PROJECT</h3>
 
 - **FUN-project**: [LLM helper for science fiction writer](https://github.com/WitalijKaa/special-creativity/blob/main/docker/readme.docker.md)
-
-<h3 align="left">ONLINE EXAMPLE</h3>
-
-- **previous FUN-project**: [electronic schemes in magic world](http://91.92.128.146/)
 
 <h3 align="left">CODE EXAMPLES</h3>
 
 - **PHP code**: [WEB helper for science fiction writer](https://github.com/WitalijKaa/special-creativity)
 
-- **PYTHON code**: [LLM helper for science fiction writer](https://github.com/WitalijKaa/special-creativity-ai)
-
-- **something old**: [php js](https://github.com/WitalijKaa/WitalijKaa/blob/main/README.old.md)
