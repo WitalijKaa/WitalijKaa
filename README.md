@@ -3,15 +3,12 @@
 
 - 💬 Ask me about **PHP, Laravel, MySQL, SOLID**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/witalij-kislitsa/](https://www.linkedin.com/in/witalij-kislitsa/)
-
 - 📫 How to reach me **titarenko.kaa@gmail.com**
 
 - ⚡ Fun fact **Making love, not war**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/witalij-kislitsa" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/linked-in.svg?raw=true" alt="witalij-kislitsa" height="30" width="40" /></a>
 <a href="https://t.me/WitalijKaa" target="_blank"><img align="center" src="https://github.com/WitalijKaa/WitalijKaa/blob/main/img/telega.png?raw=true" alt="WitalijKaa" height="auto" width="40" /></a>
 </p>
 
@@ -94,8 +91,10 @@
 - **ex Men's Health Russia**: [top journal for men](https://www.mentoday.ru/)
 
 - Complex admin panel and microservices for journals, not-public.
+
 <br><br>
 - using PIXI.js + Yii 2 + Vue.JS + Postgres:
+
 - **Prize**: [game for leading mobile provider](https://priz.mts.ru/)
 
 - **Spin**: [plus one more version of that game](https://kruti.mts.ru/)
