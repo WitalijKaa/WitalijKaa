@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋, I'm Vitalii Kyslytsia</h1>
+<h1 align="center">Welcome 👋, I'm Vitalii Kislitsa</h1>
 <h3 align="center">Senior Backend + Fullstack Web Developer PHP + Middle DevOps</h3>
 
 - 💬 Ask me about **PHP, Laravel, MySQL, SOLID**
